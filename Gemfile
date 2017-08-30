@@ -30,3 +30,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Default Gems end here..
 
 gem 'mongoid', '~> 6.2', '>= 6.2.1'
+
+
+
+ruby "2.3.1"
